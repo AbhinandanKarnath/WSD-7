@@ -1,0 +1,5 @@
+Developing a Dynamic Book Catalogue Web Application
+
+Develop a dynamic web application that fetches and displays a list of fictional books from a JSON data source using AJAX. The application should be user-friendly, incorporating features based on different complexity levels (beginner, medium, and hard).
+
+The web application will have three primary functionalities:Fetch and display a list of books from a JSON file or remote API.Implement user interaction features, including filtering, sorting, and pagination.Handle errors gracefully, providing feedback to users during the data fetching process.
